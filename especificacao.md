@@ -13,11 +13,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| Os cartões de cada matéria devem conter um contador que registra, individualmente, quantas aulas faltam para finalizar a unidade de aprendizado. |  | Wesley Bruno |
 |RF-004| As informações da RF-003 devem ser exibidas num gráfico de barras. |  | Wesley Bruno |
 |RF-005| A informação de quantas aulas faltam para acabar, da RF-003, de todas as matérias, deve ser exibida em um gráfico de anel, com porcentagem de quanto falta para a conclusão, até o momento atual. |  | Wesley Bruno |
-|RF-00|  |  | Wesley Bruno |
-|RF-00|  |  | Wesley Bruno |
-|RF-00|  |  | Wesley Bruno |
-|RF-00|  |  | Wesley Bruno |
-|RF-00|  |  | Wesley Bruno |
+|RF-006| A aplicação deve exibir e evidenciar qual matéria é a mais estudada e qual é a menos estudada, até o presente momento. |  | Wesley Bruno |
+|RF-007| A aplicação deve fornecer a possibilidade do usuário escolher entre alguns tons de tema de fundo. |  | Wesley Bruno |
+|RF-008| A aplicação deve permitir que o usuário estabeleça um período de início e fim para a conclusão do estudo das matérias adicionadas. |  | Wesley Bruno |
 
 
 ### Requisitos não Funcionais
@@ -25,6 +23,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-0| | | 
+
 
 ## Restrições
 
