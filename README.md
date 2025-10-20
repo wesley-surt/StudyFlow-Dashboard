@@ -67,7 +67,7 @@ Siga os passos abaixo para ter o **StudyFlow Dashboard** funcionando em sua máq
 
 2.  **Entre na pasta do projeto:**
     ```bash
-    cd [StudyFlow-dashboard]
+    cd StudyFlow-Dashboard
     ```
 
 3.  **Instale as dependências:**
