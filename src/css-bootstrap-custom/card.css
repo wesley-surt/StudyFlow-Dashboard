@@ -1,0 +1,90 @@
+/* Cor de borda personalizada */
+.custom-border-blue {
+  border: solid 2px #1CA8DD !important;
+}
+
+.custom-border-purple {
+  border: solid 2px #5233CB !important;
+}
+
+.custom-border-blue-dark {
+  border: solid 2px #0079E1 !important;
+}
+
+/* Cores de texto personalizadas */
+.custom-text-light {
+  color: #EFF0F4 !important;
+}
+.custom-text-gray {
+  color: #D1D5DB !important;
+}
+
+/* Raio de borda extra grande */
+.custom-rounded-xl {
+  border-radius: 1rem !important;
+}
+
+/* Sombra grande ao passar o mouse */
+.custom-hover-shadow-lg:hover {
+  box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+  transition: box-shadow 0.2s;
+}
+
+/* Transição de sombra */
+.custom-transition-shadow {
+  transition: box-shadow 0.2s;
+}
+
+/* Gap maior entre elementos flex/coluna */
+.custom-gap-6 {
+  gap: 1.5rem !important;
+}
+
+/* Classes customizadas para card */
+.custom-bg-card {
+  background-color: #3D4049 !important;
+}
+.custom-text-card-foreground {
+  color: #EFF0F4 !important;
+}
+
+/* Posição absoluta no canto inferior direito */
+.custom-absolute {
+  position: absolute !important;
+}
+.custom-bottom-4 {
+  bottom: 1.5rem !important;
+}
+.custom-right-4 {
+  right: 1.5rem !important;
+}
+
+/* Cores customizadas para barras de progresso e botões */
+.custom-bg-progress-bar {
+  background-color: #2F323B !important;
+}
+.custom-bg-progress-indicator {
+  background-color: #1ED642 !important;
+}
+.custom-bg-blue {
+  background-color: #0079E1 !important;
+}
+.custom-hover-bg-blue:hover {
+  background-color: #1CA8DD !important;
+}
+
+.custom-col-span-2-lg {
+  /* Em telas grandes, ocupa 100% da largura do row */
+  @media (min-width: 992px) {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+.custom-min-height-cards {
+  min-height: 15em !important;
+}
+
+.custom-min-height-card {
+  min-height: 30em !important;
+}

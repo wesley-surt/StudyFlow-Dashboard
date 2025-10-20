@@ -1,0 +1,11 @@
+/* Para elementos com [data-disabled="true"] */
+.custom-group-disabled {
+  pointer-events: none !important;
+  opacity: 0.5 !important;
+}
+
+/* Para elementos com .peer:disabled ~ .custom-peer-disabled */
+.custom-peer-disabled {
+  cursor: not-allowed !important;
+  opacity: 0.5 !important;
+}
