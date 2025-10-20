@@ -62,12 +62,12 @@ Siga os passos abaixo para ter o **StudyFlow Dashboard** funcionando em sua máq
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [LINK_DO_SEU_REPOSITORIO]
+    git clone [https://github.com/wesley-surt/StudyFlow-Dashboard.git]
     ```
 
 2.  **Entre na pasta do projeto:**
     ```bash
-    cd [NOME_DA_PASTA_DO_PROJETO]
+    cd [StudyFlow-dashboard]
     ```
 
 3.  **Instale as dependências:**
