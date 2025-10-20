@@ -67,7 +67,7 @@ Siga os passos abaixo para ter o **StudyFlow Dashboard** funcionando em sua máq
 
 2.  **Entre na pasta do projeto:**
     ```bash
-    cd [StudyFlow-dashboard]
+    cd StudyFlow-Dashboard
     ```
 
 3.  **Instale as dependências:**
@@ -79,9 +79,9 @@ Siga os passos abaixo para ter o **StudyFlow Dashboard** funcionando em sua máq
 
 4.  **Execute a aplicação:**
     ```bash
-    npm start
+    npm run dev
     # ou
-    # yarn start
+    # yarn run dev
     ```
 
 O projeto será aberto automaticamente no seu navegador padrão em `http://localhost:5173/`.
