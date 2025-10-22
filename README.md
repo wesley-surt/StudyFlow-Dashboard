@@ -53,6 +53,16 @@ O dashboard centraliza informações cruciais para o acompanhamento do progresso
 * `HTML5 / CSS3`
 
 ---
+### Apresentação em vídeo ⏯️
+
+
+#### Parte 1
+[Parte 1 - Demonstração Em Vídeo](https://github.com/user-attachments/assets/e5bbd34b-d673-4645-a498-fc767489b056)
+
+#### Parte 2
+[Parte 2 - Demonstração Em Vídeo](https://github.com/user-attachments/assets/b4ab365a-de70-4574-98e8-1c346039722d)
+
+---
 
 ### 💻 Como Rodar o Projeto Localmente
 
